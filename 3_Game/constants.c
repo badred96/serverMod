@@ -1,0 +1,1 @@
+const string CONST_SERVER_CFG = "$profile:\\ServerCFG\\";
