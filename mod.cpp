@@ -22,25 +22,25 @@ class CfgMods
 			class engineScriptModule
 			{
 				value = "";
-				files[] = {"@serverMod/1_Core"};
+				files[] = {"serverMod/1_Core"};
 			}
 			
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"@serverMod/3_Game"};
+				files[] = {"serverMod/3_Game"};
 			}
 			
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"@serverMod/4_World"};
+				files[] = {"serverMod/4_World"};
 			}
 			
 			class missionScriptModule
 			{
 				value = "";
-				files[] = {"@serverMod/5_Mission"};
+				files[] = {"serverMod/5_Mission"};
 			}
 		}
 	};
