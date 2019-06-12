@@ -7,9 +7,9 @@ class CfgMods
 		action = "";
 		hideName = 1;
 		hidePicture = 1;
-		name = "HH Lite server MOD";
-		credits = "Private MOD for HH servers from 3 persons.";
-		author = "Nine, Mizev";
+		name = "";
+		credits = "";
+		author = "";
 		authorID = "0"; 
 		version = "1.0"; 
 		extra = 0;
